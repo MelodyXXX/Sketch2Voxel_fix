@@ -1,0 +1,49 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# mac files
+*.DS_Store
+
+**/__pycache__
+data/
+ShapeNet/
+.DS_Store/
+output/
+results/
+checkpoints/
+**/.ipynb_checkpoints
+pix2pix/checkpoints/
+pix2pix/datasets/
+pix2pix/results/
+pix2pix/single_sketch/
+*.obj
+*.zip
